@@ -43,7 +43,10 @@ export default function ContactMe() {
       toast.error(error);
     } finally {
       // Reset the form and loading state
-      document.getElementById('contactForm').reset();
+      const formElement = document.getElementById('contactForm') as HTMLFormElement | null;
+      if (formElement) {
+        formElement.reset();
+      }
       setIsLoading(false);
     }
   }

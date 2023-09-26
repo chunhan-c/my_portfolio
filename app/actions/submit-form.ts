@@ -5,7 +5,7 @@ import { Resend } from 'resend';
 
 import { formReceiverEmail, emailSubject } from "@/lib/constant";
 import { getErrorMessage } from "@/lib/utils";
-import { ContactFormEmail } from '../components/contact-form-email';
+import   ContactFormEmail  from '../components/contact-form-email';
 
 
 const secretKey = process.env.NEXT_PUBLIC_RESENDER_KEY;

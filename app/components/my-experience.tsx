@@ -20,7 +20,7 @@ export default function MyExperience() {
     <section
       id="experience"
       ref={ref}
-      className="text-center flex flex-col items-center"
+      className="text-center flex flex-col items-center scroll-mt-[10rem]"
     >
       <motion.div 
         initial={{

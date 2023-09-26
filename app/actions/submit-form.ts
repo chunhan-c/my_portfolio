@@ -27,7 +27,7 @@ export async function onSubmit(formData: FormData) {
 
     // if email sent successfully, the api response would include key: "id"
     // if email failed to send, the api response would include key: message & statusCode
-    if (!Object.hasOwnProperty(data, "id")) {
+    if (!data.hasOwnProperty("id")) {
         errorMsg = getErrorMessage(data)
     }
     

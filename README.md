@@ -3,7 +3,7 @@ The project leverages a front-end stack, including React, Tailwind CSS, and Next
 This was a website built to showcase my technical skills, web design skills.
 
 
-![gif]([link](https://github.com/chunhan-c/my_portfolio/blob/main/public/my_portfolio.gif))
+![gif](https://github.com/chunhan-c/my_portfolio/blob/main/public/my_portfolio.gif)
 
 ## Project technologies used
 

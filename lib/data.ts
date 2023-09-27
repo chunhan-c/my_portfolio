@@ -36,7 +36,7 @@ export const experiencesData = [
     subTitle: 'Wiwynn',
     location: 'Taipei, Taiwan',
     description:
-      'I was working as a full-stack software engineer for 2.5 years. My stack includes React, TypeScript, PostgreSQL, Python, Flask, Microsoft 365. I\'m open to full-time opportunities.',
+      'I was working as a full-stack software engineer for nearly 3 years. My stack includes React, TypeScript, PostgreSQL, Python, Flask, Microsoft 365.',
     icon: React.createElement(FaSuitcase),
     date: 'Nov 2020 - Apr 2023',
   },

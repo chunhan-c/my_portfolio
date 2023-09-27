@@ -17,7 +17,15 @@ This was a website built to showcase my technical skills.
 * Next.js
 * Framer Motion
 * Tailwind CSS
+* Resend (Web Form Email Notification Feature）
 
 
+## Table of Web Contents
+
+* Home
+* About 
+* Skills
+* Experience
+* Contact 
 
 
